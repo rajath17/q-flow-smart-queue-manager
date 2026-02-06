@@ -1,0 +1,5 @@
+{
+  "name": "Q-Flow: Smart Queue Manager",
+  "description": "A high-end virtual queuing system for clinics, banks, and offices. Join queues remotely, track live status, and get AI-powered wait time estimates.",
+  "requestFramePermissions": []
+}
